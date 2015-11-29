@@ -7,10 +7,6 @@
 --
 */
 
-/* Font Google - strong reaload time */
-@import url(http://fonts.googleapis.com/css?family=Lato:400,300,100,700,900&subset=latin,latin-ext);
-
-
 /*
  * Theme Name: Onepage
  * Author: Thomsoon
@@ -59,7 +55,6 @@ h1{
   text-transform:uppercase;
   letter-spacing:6px;
   line-height:1.2;
-  font-family: "LTH";
 }
 
 p{
@@ -68,11 +63,9 @@ p{
   font-weight:300;
   letter-spacing:1px;
   margin-top:40px;
-  font-family: "LTXH";
 }
 
 span {
-  font-family: "LTXH";
 }
 
 h1 span{

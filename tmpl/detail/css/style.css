@@ -55,7 +55,6 @@ h1{
   text-transform:uppercase;
   letter-spacing:6px;
   line-height:1.2;
-  font-family: "LTH";
 }
 
 p{
@@ -64,11 +63,9 @@ p{
   font-weight:300;
   letter-spacing:1px;
   margin-top:40px;
-  font-family: "LTH";
 }
 
 div {
-  font-family: "LTH";
 }
 
 

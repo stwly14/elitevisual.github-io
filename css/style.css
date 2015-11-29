@@ -13,7 +13,6 @@
  * Created: 14/11/2014
  */
 
-
 .preloader{
   position:fixed;
   width:100%;
@@ -52,7 +51,6 @@ h1{
   font-size:34px;
   color:white;
   font-weight:300;
-  font-family: "LTH";
   text-transform:uppercase;
   letter-spacing:6px;
   line-height:1.2;
@@ -62,15 +60,9 @@ p{
   font-size:14px;
   color:white;
   font-weight:300;
-  font-family: "LTXH";
   letter-spacing:1px;
   margin-top:40px;
 }
-
-span {
-  font-family: "LTXH";
-}
-
 
 h1 span{
   color:#2fa68e;

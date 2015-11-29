@@ -100,17 +100,8 @@ $(window).load(function() {
     $(".parallax-background-partners").parallax();
   }
 
-  initPage();
   initEvent();
 });
-
-var initPage = function() {
-  var fileref=document.createElement("link"); 
-  fileref.setAttribute("rel", "stylesheet"); 
-  fileref.setAttribute("type", "text/css");  
-  fileref.setAttribute("href", '../../css/font.css');
-  document.getElementsByTagName("head")[0].appendChild(fileref);
-};
 
 var initEvent = function() {
   var i = 0;

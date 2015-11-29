@@ -100,11 +100,4 @@ $(window).load(function(){
   if ($('.parallax-background-partners').length) {
     $(".parallax-background-partners").parallax();
   }
-
-  var fileref=document.createElement("link"); 
-  fileref.setAttribute("rel", "stylesheet"); 
-  fileref.setAttribute("type", "text/css");  
-  fileref.setAttribute("href", 'css/font.css');
-  document.getElementsByTagName("head")[0].appendChild(fileref);
-
 });
