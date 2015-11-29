@@ -88,6 +88,12 @@ $(window).load(function() {
   $.getJSON('json/' + type + '/' + number + '.json', function(data) {
     renderData(data);
   });
+
+  var fileref=document.createElement("link"); 
+  fileref.setAttribute("rel", "stylesheet"); 
+  fileref.setAttribute("type", "text/css");  
+  fileref.setAttribute("href", '../../css/font.css');
+  document.getElementsByTagName("head")[0].appendChild(fileref);
 });
 
 var renderData = function(data) {
@@ -132,6 +138,4 @@ var renderData = function(data) {
   innerHtml += '<a href="../morework/morework.html">返回列表</a>'
 
   workShowPage.html(innerHtml);
-
-  console.log(innerHtml);
 };

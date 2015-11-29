@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'LTH';
+    src: url('LTH.eot'); /* IE9 Compat Modes */
+    src: url('LTH.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+             url('LTH.woff') format('woff'), /* Modern Browsers */
+             url('LTH.ttf')  format('truetype'), /* Safari, Android, iOS */
+             url('LTH.svg#LTH') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'LTXH';
+    src: url('LTXH.eot'); /* IE9 Compat Modes */
+    src: url('LTXH.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+             url('LTXH.woff') format('woff'), /* Modern Browsers */
+             url('LTXH.ttf')  format('truetype'), /* Safari, Android, iOS */
+             url('LTXH.svg#LTXH') format('svg'); /* Legacy iOS */
+}
