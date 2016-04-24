@@ -12,8 +12,6 @@ $container.imagesLoaded(function() {
   });
 });
 
-
-
 // Stick menu
 $(".menu").sticky({
   topSpacing: 0
@@ -87,6 +85,41 @@ $(".icon").click(function() {
 
 
 $(window).load(function() {
+
+  $.getJSON('json/design.json', function(data) {
+    var $items;
+    var obj = data['design'];
+    var innerHTML = '';
+
+    (obj.length <= 10) && $('.read-more').hide();
+
+    for (var i = 0, length = obj.length; i < length; i++) {
+      innerHTML += '<li>';
+      innerHTML += '  <a href="../detail/detail.html?type=design&number=' + (i + 1) + '">';
+      innerHTML += '    <img src="' + obj[i].src + '" alt="work item" />';
+      innerHTML += '    <div class="text">';
+      innerHTML += '      <p class="p_one">' + obj[i].name + '</p>';
+      innerHTML += '      <p class="description">' + obj[i].dec + '</p>';
+      innerHTML += '    </div>';
+      innerHTML += '  </a>';
+      innerHTML += '</li>';
+    }
+
+    $items = $(innerHTML);
+
+    $container.imagesLoaded(function() {
+      $container.append($items)
+        .masonry('layout')
+        .masonry('appended', $items);
+    });
+
+    setTimeout(function() {
+      $container.imagesLoaded(function() {
+        $container.masonry('layout')
+      });
+    }, 1000);
+
+  });
 
   $(".preloader").delay(1000).fadeOut("slow");
 
@@ -183,8 +216,8 @@ var initEvent = function() {
         innerHTML += '  <a href="../detail/detail.html?type=' + type + '&number=' + (i + 1) + '">';
         innerHTML += '    <img src="' + obj[i].src + '" alt="work item" />';
         innerHTML += '    <div class="text">';
-        innerHTML += '      <p class="p_one">'; + obj[i].name + '</p>';
-        innerHTML += '      <p class="description">'; + obj[i].dec + '</p>';
+        innerHTML += '      <p class="p_one">' + obj[i].name + '</p>';
+        innerHTML += '      <p class="description">' + obj[i].dec + '</p>';
         innerHTML += '    </div>';
         innerHTML += '  </a>';
         innerHTML += '</li>';
@@ -196,6 +229,12 @@ var initEvent = function() {
           .masonry('layout')
           .masonry('appended', $items);
       });
+
+      setTimeout(function() {
+        $container.imagesLoaded(function() {
+          $container.masonry('layout')
+        });
+      }, 500);
     });
   });
 

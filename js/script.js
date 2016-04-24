@@ -3,6 +3,15 @@
   // $("html").niceScroll();
 
 
+  var $container = $('.grid');
+  var isFirstShow = true;
+
+  $container.imagesLoaded(function() {
+    $container.masonry({
+      itemSelector: 'li'
+    });
+  });
+
   // Stick menu
   $(".menu").sticky({topSpacing:0});
 
@@ -89,7 +98,42 @@ else
 
 $(window).load(function(){
 
-  $(".preloader").delay(1000).fadeOut("slow")
+  $.getJSON('json/main.json', function(data) {
+    var $items;
+    var obj = data.content;
+    var innerHTML = '';
+
+    (obj.length <= 10) && $('.read-more').hide();
+
+    for (var i = 0, length = obj.length; i < length; i++) {
+      innerHTML += '<li>';
+      innerHTML += '  <a href="#">';
+      innerHTML += '    <img src="' + obj[i].src + '" alt="Portfolio item" />';
+      innerHTML += '    <div class="text">';
+      innerHTML += '      <p class="p_one">' + obj[i].name + '</p>';
+      innerHTML += '      <p class="description">' + obj[i].dec + '</p>';
+      innerHTML += '    </div>';
+      innerHTML += '  </a>';
+      innerHTML += '</li>';
+    }
+
+    $items = $(innerHTML);
+
+    $container.imagesLoaded(function() {
+      $container.append($items)
+        .masonry('layout')
+        .masonry('appended', $items);
+    });
+
+    setTimeout(function() {
+      $container.imagesLoaded(function() {
+        $container.masonry('layout')
+      });
+    }, 1000);
+
+  });
+
+  $(".preloader").delay(1000).fadeOut("slow");
 
   // Parallax
   if ($('.parallax-background').length) {
@@ -100,4 +144,5 @@ $(window).load(function(){
   if ($('.parallax-background-partners').length) {
     $(".parallax-background-partners").parallax();
   }
+
 });
