@@ -107,7 +107,7 @@ $(window).load(function(){
 
     for (var i = 0, length = obj.length; i < length; i++) {
       innerHTML += '<li>';
-      innerHTML += '  <a href="#">';
+      innerHTML += '  <a href="' + obj[i].src +　'">';
       innerHTML += '    <img src="' + obj[i].src + '" alt="Portfolio item" />';
       innerHTML += '    <div class="text">';
       innerHTML += '      <p class="p_one">' + obj[i].name + '</p>';
