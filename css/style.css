@@ -633,8 +633,16 @@ h1 span{
   opacity:1;
 }
 
+.grid .text div {
+  top: 50%;
+  left: 0;
+  width: 100%;
+  margin-top: -33px;
+  position: absolute;
+}
+
 .grid .text .p_one {
-  margin-top: 73px;
+  margin-top: 0px;
 }
 
 .grid .text .p_two {
@@ -657,7 +665,7 @@ h1 span{
 
 .grid p.description {
   font-size: 12px;
-  width:300px;
+  width: 100%;
   margin-top:20px;
   text-align:center;
   line-height:20px;

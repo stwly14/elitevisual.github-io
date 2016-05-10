@@ -263,7 +263,7 @@ h1 span{
   top: 0;
   left: 0;
   width:100%;
-  height:60px;
+  height:94px;
   position: fixed;
   background:white;
   border-bottom:1px solid #f2f2f2;
@@ -271,10 +271,11 @@ h1 span{
 }
 
 .menu-content{
-  width:900px;
+  width: 90%;
+  min-width: 1010px;
+  margin-left: 10%;
   height: 100%;
   position:relative;
-  margin:0 auto;
 }
 
 .menu-content .logo {
@@ -283,10 +284,8 @@ h1 span{
  }
 
 .menu-content ul{
-  width:570px;
-  left:50%;
-  float:right;
-  text-align:right;
+  margin-right: 245px;
+  text-align:center;
   list-style:none;
 }
 
@@ -300,12 +299,12 @@ h1 span{
   font-size:16px;
   display: block;
   padding: 0 20px 0 20px;
-  line-height:60px;
+  line-height:94px;
   -webkit-transition: all 0.2s ease-in;
-	-moz-transition: all 0.2s ease-in;
-	-ms-transition: all 0.2s ease-in;
-	-o-transition: all 0.2s ease-in;
-	transition: all 0.2s ease-in;
+  -moz-transition: all 0.2s ease-in;
+  -ms-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
 }
 
 .menu-content li.active a{
@@ -316,6 +315,42 @@ h1 span{
   color:#50A9B8;
 }
 
+.menu-content .phone {
+  top: 0;
+  right: 50px;
+  width: 210px;
+  height: 100%;
+  position: absolute;
+}
+
+.menu-content .phone p {
+  color: #333;
+  margin: 0;
+  font-size: 14px;
+  line-height: 14px;
+  position: absolute;
+}
+
+.menu-content .phone .txt-1 {
+  top: 40px;
+  left: 0px;
+}
+
+.menu-content .phone .txt-2 {
+  top: 32px;
+  right: 0;
+  font-size: 12px;
+}
+
+.menu-content .phone .txt-3 {
+  top: 50px;
+  right: 0;
+  font-size: 12px;
+}
+
+.menu-content .phone span {
+  color:#50A9B8;
+}
 
 /* Contact */
 
@@ -386,7 +421,7 @@ h1 span{
 
 
 .contact .content .contact-text{
-  width:405px;
+  width:280px;
   overflow:hidden;
   height:auto;
   font-weight:normal;
@@ -403,12 +438,19 @@ h1 span{
 }
 
 .contact .content .contact-text .qq,
-.contact .content .contact-text .email {
+.contact .content .contact-text .email,
+.contact .content .contact-text .phone {
   padding-left: 35px;
+  position: relative;
 }
 
 .contact .content .contact-text img {
   position: absolute;
+}
+
+.contact .content .contact-text .img_3 {
+  top: 6px;
+  left: 2px;
 }
 
 .contact .content .contact-text .img_1 {
