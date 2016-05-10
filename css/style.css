@@ -1,4 +1,4 @@
-/* Thomsoon.com - OnePage CSS Responsive theme
+ /* Thomsoon.com - OnePage CSS Responsive theme
 -- version 1.0
 -- Copyright (c) 2014 Thomsoon.com
 -- licensed under the MIT
@@ -279,17 +279,18 @@ h1 span{
 .menu{
   position:relative;
   width:100%;
-  height:60px;
+  height:94px;
   background:white;
   border-bottom:1px solid #f2f2f2;
   z-index:1000;
 }
 
 .menu-content{
-  width:900px;
+  width: 90%;
+  min-width: 1010px;
+  margin-left: 10%;
   height: 100%;
   position:relative;
-  margin:0 auto;
 }
 
 .menu-content .logo {
@@ -298,10 +299,7 @@ h1 span{
  }
 
 .menu-content ul{
-  width:570px;
-  left:50%;
-  float:right;
-  text-align:right;
+  text-align:center;
   list-style:none;
 }
 
@@ -315,7 +313,7 @@ h1 span{
   font-size:16px;
   display: block;
   padding: 0 20px 0 20px;
-  line-height:60px;
+  line-height: 94px;
   -webkit-transition: all 0.2s ease-in;
 	-moz-transition: all 0.2s ease-in;
 	-ms-transition: all 0.2s ease-in;
@@ -331,6 +329,42 @@ h1 span{
   color:#50A9B8;
 }
 
+.menu-content .phone {
+  float: right;
+  width: 210px;
+  height: 100%;
+  margin-right: 50px;
+  position: relative;
+}
+
+.menu-content .phone p {
+  color: #333;
+  margin: 0;
+  font-size: 14px;
+  line-height: 14px;
+  position: absolute;
+}
+
+.menu-content .phone .txt-1 {
+  top: 40px;
+  left: 0px;
+}
+
+.menu-content .phone .txt-2 {
+  top: 32px;
+  right: 0;
+  font-size: 12px;
+}
+
+.menu-content .phone .txt-3 {
+  top: 50px;
+  right: 0;
+  font-size: 12px;
+}
+
+.menu-content .phone span {
+  color:#50A9B8;
+}
 
 /* About us */
 
@@ -697,23 +731,6 @@ h1 span{
 	transition: all 0.2s ease-in;
 }
 
-.partners .logo .img1 {
-  padding-top: 20px;
-}
-
-.partners .logo .img2 {
-  padding-top: 16px;
-}
-
-.partners .logo .img3 {
-  padding-top: 0px;
-}
-
-.partners .logo .img4 {
-  padding-top: 8px;
-}
-
-
 .partners .logo img:hover{
   opacity:1;
 }
@@ -787,7 +804,7 @@ h1 span{
 
 
 .contact .content .contact-text{
-  width:405px;
+  width:280px;
   overflow:hidden;
   height:auto;
   font-weight:normal;
@@ -804,12 +821,19 @@ h1 span{
 }
 
 .contact .content .contact-text .qq,
-.contact .content .contact-text .email {
+.contact .content .contact-text .email,
+.contact .content .contact-text .phone {
   padding-left: 35px;
+  position: relative;
 }
 
 .contact .content .contact-text img {
   position: absolute;
+}
+
+.contact .content .contact-text .img_3 {
+  top: 6px;
+  left: 2px;
 }
 
 .contact .content .contact-text .img_1 {
