@@ -1,74 +1,14 @@
-{
+﻿{
 	"view": [{
-		"src": "img/work/design/17.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
+		"src": "img/work/view/1.png",
+		"name": "微电影",
+		"dec": "温德姆酒店2015婚博会"
 	}, {
-		"src": "img/work/design/18.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
+		"src": "img/work/view/2.png",
+		"name": "公益宣传片",
+		"dec": "佛山地税乐从分局"
 	}, {
-		"src": "img/work/design/19.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/20.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/12.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/13.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/14.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/15.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/16.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/17.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/12.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/13.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/14.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/15.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/16.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/18.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/19.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/20.png",
+		"src": "img/work/view/3.png",
 		"name": "企业宣传片",
 		"dec": "佛山石湾酒厂"
 	}]

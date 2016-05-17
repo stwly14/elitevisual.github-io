@@ -1,75 +1,15 @@
-{
+﻿{
 	"net": [{
-		"src": "img/work/design/12.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
+		"src": "img/work/net/1.png",
+		"name": "UI界面设计",
+		"dec": "QIANBAO金融理财"
 	}, {
-		"src": "img/work/design/13.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
+		"src": "img/work/net/2.png",
+		"name": "网页设计",
+		"dec": "分贝耳机品牌"
 	}, {
-		"src": "img/work/design/14.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/15.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/16.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/12.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/13.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/14.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/15.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/16.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/17.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/18.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/19.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/20.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/17.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/18.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/19.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
-	}, {
-		"src": "img/work/design/20.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
+		"src": "img/work/net/3.png",
+		"name": "店铺页面设计",
+		"dec": "宛若水仙"
 	}]
 }
