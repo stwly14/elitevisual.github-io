@@ -121,7 +121,11 @@ textarea{
 
 }
 
-
+@media (max-width: 767px) {
+  .menu-media .menu-content{
+    min-width: initial;
+  }
+}
 
 /* iPad (portrait) */
 @media (min-width: 580px) and (max-width: 767px) {

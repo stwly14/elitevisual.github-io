@@ -643,7 +643,7 @@ h1 span{
 
 .grid p.description {
   font-size: 12px;
-  width:300px;
+  width:100%;
   margin-top:20px;
   text-align:center;
   line-height:20px;
