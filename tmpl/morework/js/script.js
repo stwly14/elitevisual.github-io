@@ -162,8 +162,10 @@ var initEvent = function() {
       innerHTML += '  <a href="../detail/detail.html?type=' + type + '&number=' + (i + 1) + '">';
       innerHTML += '    <img src="' + obj[i].src + '" alt="work item" />';
       innerHTML += '    <div class="text">';
-      innerHTML += '      <p class="p_one">' + obj[i].name + '</p>';
-      innerHTML += '      <p class="description">' + obj[i].dec + '</p>';
+      innerHTML += '      <div>';
+      innerHTML += '        <p class="p_one">' + obj[i].name + '</p>';
+      innerHTML += '        <p class="description">' + obj[i].dec + '</p>';
+      innerHTML += '      </div>';
       innerHTML += '    </div>';
       innerHTML += '  </a>';
       innerHTML += '</li>';
@@ -218,8 +220,10 @@ var initEvent = function() {
         innerHTML += '  <a href="../detail/detail.html?type=' + type + '&number=' + (i + 1) + '">';
         innerHTML += '    <img src="' + obj[i].src + '" alt="work item" />';
         innerHTML += '    <div class="text">';
-        innerHTML += '      <p class="p_one">' + obj[i].name + '</p>';
-        innerHTML += '      <p class="description">' + obj[i].dec + '</p>';
+        innerHTML += '      <div>';
+        innerHTML += '        <p class="p_one">' + obj[i].name + '</p>';
+        innerHTML += '        <p class="description">' + obj[i].dec + '</p>';
+        innerHTML += '      </div>';
         innerHTML += '    </div>';
         innerHTML += '  </a>';
         innerHTML += '</li>';

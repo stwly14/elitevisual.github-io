@@ -95,6 +95,7 @@ var renderData = function(data) {
   var workShowPage = $('.work-show');
   var textContent = data.text;
   var images = data.images;
+  var imagesTxt = data.imagesTxt;
   var videos = data.videos;
   var innerHtml = '';
 
@@ -118,6 +119,9 @@ var renderData = function(data) {
     innerHtml += '<div class="margin-wrap"></div>';
     for(var i = 0; i < images.length; i++) {
       innerHtml += '<img src="' + images[i] + '" />';
+      if(imagesTxt[i]) {
+        innerHtml += '<p>' + imagesTxt[i] + '</p>';
+      }
     }
   }
 
