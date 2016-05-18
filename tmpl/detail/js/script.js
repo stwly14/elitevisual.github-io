@@ -118,10 +118,10 @@ var renderData = function(data) {
   if(images.length) {
     innerHtml += '<div class="margin-wrap"></div>';
     for(var i = 0; i < images.length; i++) {
-      innerHtml += '<img src="' + images[i] + '" />';
-      if(imagesTxt[i]) {
+      if(typeof imagesTxt != 'undefined' && imagesTxt[i]) {
         innerHtml += '<p>' + imagesTxt[i] + '</p>';
       }
+      innerHtml += '<img src="' + images[i] + '" />';
     }
   }
 
