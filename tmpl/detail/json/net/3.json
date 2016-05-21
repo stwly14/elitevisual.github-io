@@ -13,6 +13,7 @@
 		"head": "解决方案",
 		"content": ["哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"]
 	}],
-	"images": ["img/work/net/3/1.png"],
+	"images": ["img/work/net/3/1.png", "img/work/net/3/2.png", "img/work/net/3/3.png", "img/work/net/3/4.png"],
+	"imagesTxt": ["", "", "", ""],
 	"videos": []
 }

@@ -3,61 +3,61 @@
 		"src": "img/portfolio/1.png",
 		"name": "画册设计",
 		"dec": "合道金融企业宣传画册",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=1"
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=6"
 	}, {
 		"src": "img/portfolio/2.png",
 		"name": "海报设计",
 		"dec": "合道金融系列海报",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=1"
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=2"
 	}, {
 		"src": "img/portfolio/3.png",
 		"name": "VI品牌形象设计",
 		"dec": "C-cube服装潮牌",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=1"
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=3"
 	}, {
 		"src": "img/portfolio/4.png",
-		"name": "装帧封面设计",
-		"dec": "守山人",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=1"
+		"name": "Logo设计",
+		"dec": "沁康生物科技",
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=8"
 	}, {
 		"src": "img/portfolio/5.png",
 		"name": "微电影",
-		"dec": "温德姆酒店2015婚博会",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=1"
+		"dec": "温德姆酒店婚博会",
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=view&number=1"
 	}, {
 		"src": "img/portfolio/6.png",
-		"name": "产品画册设计",
-		"dec": "海顺新材料产品画册",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=1"
+		"name": "包装设计",
+		"dec": "温德姆酒店月饼包装",
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=10"
 	}, {
 		"src": "img/portfolio/7.png",
-		"name": "Logo设计",
-		"dec": "沁康生物科技",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=1"
+		"name": "折页设计",
+		"dec": "御水湾度假村",
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=5"
 	}, {
 		"src": "img/portfolio/8.png",
-		"name": "Logo设计",
-		"dec": "沁康生物科技",
+		"name": "产品画册设计",
+		"dec": "海顺新材料产品画册",
 		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=1"
 	}, {
 		"src": "img/portfolio/9.png",
 		"name": "公益宣传片",
 		"dec": "佛山地税乐从分局",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=1"
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=view&number=2"
 	}, {
 		"src": "img/portfolio/10.png",
 		"name": "店铺页面设计",
 		"dec": "宛若水仙",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=1"
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=net&number=3"
 	}, {
 		"src": "img/portfolio/11.png",
 		"name": "企业宣传片",
 		"dec": "佛山石湾酒厂",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=1"
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=view&number=3"
 	}, {
 		"src": "img/portfolio/12.png",
-		"name": "LOGO设计",
-		"dec": "C-cube服装潮牌",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=1"
+		"name": "移动端UI设计",
+		"dec": "QIANBAO金融理财",
+		"link": "detail.html?type=net&number=1"
 	}]
 }

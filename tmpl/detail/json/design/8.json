@@ -1,4 +1,4 @@
-{
+﻿{
 	"headline": "QIAN BAO金融理财APP",
 	"custom": "QIANBAO金融理财",
 	"industry": "金融/互联网",
@@ -13,6 +13,7 @@
 		"head": "解决方案",
 		"content": ["哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"]
 	}],
-	"images": ["img/work/design/1/1.png", "img/work/design/1/2.png"],
+	"images": ["img/work/design/8/1.png", "img/work/design/8/2.png", "img/work/design/8/3.png", "img/work/design/8/4.png"],
+	"imagesTxt": [" ", " ", " ", " "],
 	"videos": []
 }
