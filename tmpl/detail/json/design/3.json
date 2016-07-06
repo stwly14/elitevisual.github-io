@@ -5,15 +5,15 @@
 	"serveice": "而立为“C-CUBE”提供了VI品牌形象设计等服务！",
 	"text": [{
 		"head": "项目背景",
-		"content": ["C-cube服装潮牌"]
+		"content": ["C-cube是由三姐妹原创的女装品牌，着重自我创作及配搭来突显个人风格的设计深得时装界的认同及追捧。C-cube坚持以其无穷创意设计出一系列多元化的时尚潮流服，让时装爱好者发挥配搭创意，展现个人魅力。品牌服饰主推女装系列，设计优雅而不失独特性，既能突显穿者的个性而又不流于夸张，为不同形象及年龄的顾客提供了一系列属于青年人的潮流服饰。"]
 	}, {
 		"head": "面临挑战",
-		"content": ["在这项目中主要有几大挑战：", "1.xxxx", "2.xxxx", "3.xxxx"]
+		"content": ["在这项目中主要有几大挑战：", "1.客户提出把三姐妹的英文名共同的首字母C做为logo设计", "2.LOGO必须体现“立方³”的元素", "3.LOGO可直接单独制作成小饰品，例如“皮带扣”"]
 	}, {
 		"head": "解决方案",
-		"content": [""]
+		"content": ["LOGO由3个C从大到小一个扣着一个，组成了一个大C，寓意着三姐妹联合起来品牌更加坚固，创意更加无穷。结合立方³在右上角的完美融入，logo整体干净利落，寓意不凡。"]
 	}],
-	"images": ["img/work/design/3/1.png", "img/work/design/3/2.png", "img/work/design/3/3.png"],
-	"imagesTxt": [" ", " ", " "],
+	"images": ["img/work/design/3/1.png", "img/work/design/3/2.png", "img/work/design/3/3.png", "img/work/design/3/4.png", "img/work/design/3/5.png", "img/work/design/3/6.png", "img/work/design/3/7.png", "img/work/design/3/8.png"],
+	"imagesTxt": [" ", " ", " ", " ", " ", " ", " ", " "],
 	"videos": []
 }
