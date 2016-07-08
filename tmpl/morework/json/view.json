@@ -1,15 +1,39 @@
 ﻿{
 	"view": [{
 		"src": "img/work/view/1.png",
+		"name": "企业宣传片",
+		"dec": "可罗食品（中国）有限公司"
+	}, {
+		"src": "img/work/view/2.png",
+		"name": "企业宣传片",
+		"dec": "佛山石湾酒厂集团"
+	}, {
+		"src": "img/work/view/3.png",
 		"name": "微电影",
 		"dec": "温德姆酒店2015婚博会"
 	}, {
-		"src": "img/work/view/2.png",
+		"src": "img/work/view/4.png",
+		"name": "个人形象片",
+		"dec": "佛山南海十佳青年短片—刘思聪"
+	}, {
+		"src": "img/work/view/5.png",
+		"name": "形象宣传片",
+		"dec": "禅城区城市形象宣传片"
+	}, {
+		"src": "img/work/view/6.png",
+		"name": "形象宣传片",
+		"dec": "佛山市城市形象宣传片"
+	}, {
+		"src": "img/work/view/7.png",
 		"name": "公益宣传片",
 		"dec": "佛山地税乐从分局"
 	}, {
-		"src": "img/work/view/3.png",
-		"name": "企业宣传片",
-		"dec": "佛山石湾酒厂"
+		"src": "img/work/view/8.png",
+		"name": "微电影",
+		"dec": "第8届三七短片汇参赛作品《游戏》"
+	}, {
+		"src": "img/work/view/9.png",
+		"name": "微电影",
+		"dec": "第9届三七短片汇参赛作品《错误代码》"
 	}]
 }

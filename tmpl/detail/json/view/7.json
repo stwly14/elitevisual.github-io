@@ -1,18 +1,16 @@
-{
-	"headline": "QIAN BAO金融理财APP",
-	"custom": "QIANBAO金融理财",
-	"industry": "金融/互联网",
-	"serveice": "而立为“QIANBAO”提供了移动端UI设计与开发等服务！",
+﻿{
+	"headline": "佛山地税乐从分局公益宣传片",
+	"custom": "佛山地税乐从分局",
+	"industry": "公益宣传片",
+	"serveice": "而立对《错误代码》进行剧本创作、拍摄、后期剪辑",
 	"text": [{
 		"head": "项目背景",
-		"content": ["QIANBAO基于提升用户体验、优化平台的界面设计、等几方面的需求，决定将现有移动端进行全新的升级。"]
+		"content": ["组织干部员工共同参与宣传片拍摄，分期分批参观地税文化展厅，提升大家的集体认同感、归属感和荣誉感；通过各分局办税服务厅进行循环播放，对外展示地税团队工作成绩和优良作风，赢得纳税人的关注、理解和支持，增强税收宣传效果。"]
 	}, {
-		"head": "面临挑战",
-		"content": ["在这项目中主要有几大挑战：", "1.xxxx", "2.xxxx", "3.xxxx"]
-	}, {
-		"head": "解决方案",
-		"content": ["哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"]
+		"head": "项目简介",
+		"content": ["从各行各业的角度切入，充分说明税收取之于民、用之于民，聚财为国的理念，有利于提高纳税遵循度。"]
 	}],
-	"images": ["img/work/design/1/1.png", "img/work/design/1/2.png"],
-	"videos": []
+	"images": [],
+	"imagesTxt": [],
+	"videos": ["http://yuntv.letv.com/bcloud.swf?uu=sqi6z4wlpa&vu=260fd6c871&pu=dac422ae79&auto_play=0&gpcflag=1"]
 }
