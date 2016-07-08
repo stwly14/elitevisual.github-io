@@ -1,0 +1,16 @@
+﻿{
+	"headline": "德諾工具画册设计",
+	"custom": "德諾工具",
+	"industry": "五金/工具",
+	"serveice": "而立为“德諾”提供了画册设计、产品拍摄、平面宣传等服务！",
+	"text": [{
+		"head": "项目背景",
+		"content": ["德諾国际(香港)五金工具有限公司是以技术、市场为导向，通过不断地科技创新和诚信的服务精神，推出“德諾DENEW®”工具品牌係列产品远销欧美以及东南亚等地，德諾品牌现有测量工具係列、钳类工具係列、扳手工具係列、套筒及配件係列、螺丝批係列、锤类及木工工具系列等几千种规格品种的产品,以优良的品质、完善的售后服务赢得了客户的好评，成为服务世界五金市场的“利器”。"]
+	}, {
+		"head": "解决方案",
+		"content": ["画册沿袭了德诺一贯使用的企业色——黄色进行设计，以黑黄为主基调。以简洁的排版方式创作出极具视觉冲击力的宣传画册设计，令德诺国际（香港）五金工具利于区别于用行业的视觉识别。"]
+	}],
+	"images": ["img/work/design/13/1.jpg", "img/work/design/13/2.jpg", "img/work/design/13/3.jpg", "img/work/design/13/4.jpg", "img/work/design/13/5.jpg", "img/work/design/13/6.jpg", "img/work/design/13/7.jpg", "img/work/design/13/8.jpg", "img/work/design/13/9.jpg", "img/work/design/13/10.jpg"],
+	"imagesTxt": [],
+	"videos": []
+}
