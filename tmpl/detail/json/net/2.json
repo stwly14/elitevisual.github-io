@@ -1,18 +1,16 @@
 ﻿{
-	"headline": "分贝耳机品牌",
-	"custom": "QIANBAO金融理财",
-	"industry": "金融/互联网",
-	"serveice": "而立为“QIANBAO”提供了移动端UI设计与开发等服务！",
+	"headline": "分贝耳机网站设计",
+	"custom": "分贝耳机",
+	"industry": "电子产品",
+	"serveice": "而立为“分贝耳机”提供了网站界面设计与开发等服务",
 	"text": [{
 		"head": "项目背景",
-		"content": ["QIANBAO基于提升用户体验、优化平台的界面设计、等几方面的需求，决定将现有移动端进行全新的升级。"]
-	}, {
-		"head": "面临挑战",
-		"content": ["在这项目中主要有几大挑战：", "1.xxxx", "2.xxxx", "3.xxxx"]
+		"content": ["分贝耳机基于提升用户体验、优化平台的界面设计、等几方面的需求，决定将现有网站界面进行全新的升级。"]
 	}, {
 		"head": "解决方案",
-		"content": ["哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"]
+		"content": ["而立协调了优质的设计师资源，并且通过大量的浏览掌握其他内容形式近似或是功能近似的应用软件；与此同时还深入到客户内部，与客户进行深入直接的沟通。进而保证了能够在规定的时间内，提交令客户较为满意的工作成果。"]
 	}],
-	"images": [],
-	"videos": ["http://imgcache.qq.com/tencentvideo_v1/player/TencentPlayer.swf?vid=y01567t6yct","http://imgcache.qq.com/tencentvideo_v1/player/TencentPlayer.swf?vid=a0157gc0fau"]
+	"images": ["img/work/net/2/1.jpg", "img/work/net/2/2.jpg", "img/work/net/2/3.jpg"],
+	"imagesTxt": [],
+	"videos": []
 }
