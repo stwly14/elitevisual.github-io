@@ -1,13 +1,13 @@
 ﻿{
 	"content": [{
 		"src": "img/portfolio/1.png",
-		"name": "企业宣传片",
-		"dec": "可罗食品（中国）有限公司",
+		"name": "公益宣传片",
+		"dec": "佛山地方税务",
 		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=view&number=1"
 	}, {
 		"src": "img/portfolio/2.png",
 		"name": "海报设计",
-		"dec": "合道金融系列海报",
+		"dec": "合道金融",
 		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=2"
 	}, {
 		"src": "img/portfolio/3.png",
@@ -16,33 +16,33 @@
 		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=3"
 	}, {
 		"src": "img/portfolio/4.png",
-		"name": "画册设计",
-		"dec": "德諾工具",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=13"
-	}, {
-		"src": "img/portfolio/5.png",
-		"name": "形象宣传片",
-		"dec": "佛山市城市形象宣传片",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=view&number=6"
-	}, {
-		"src": "img/portfolio/6.png",
-		"name": "VI品牌形象设计",
-		"dec": "潮味海记牛肉火锅",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=7"
-	}, {
-		"src": "img/portfolio/7.png",
-		"name": "VI品牌形象设计",
-		"dec": "IM Natural冰激凌品牌",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=17"
-	}, {
-		"src": "img/portfolio/8.png",
 		"name": "包装/宣传物料设计",
 		"dec": "顺联温德姆酒店",
 		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=10"
 	}, {
+		"src": "img/portfolio/5.png",
+		"name": "VI品牌形象设计",
+		"dec": "潮味海记牛肉火锅",
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=7"
+	}, {
+		"src": "img/portfolio/6.png",
+		"name": "微电影",
+		"dec": "佛山市第一人民医院",
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=view&number=6"
+	}, {
+		"src": "img/portfolio/7.png",
+		"name": "画册设计",
+		"dec": "德諾工具",
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=13"
+	}, {
+		"src": "img/portfolio/8.png",
+		"name": "VI品牌形象设计",
+		"dec": "IM Natural冰激凌品牌",
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=17"
+	}, {
 		"src": "img/portfolio/9.png",
 		"name": "画册设计",
-		"dec": "合道金融企业宣传画册",
+		"dec": "合道金融",
 		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=design&number=6"
 	}, {
 		"src": "img/portfolio/10.png",
@@ -52,12 +52,12 @@
 	}, {
 		"src": "img/portfolio/11.png",
 		"name": "微电影",
-		"dec": "温德姆酒店2015婚博会",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=view&number=3"
+		"dec": "第9届三七短片汇《错误代码》",
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=view&number=9"
 	}, {
 		"src": "img/portfolio/12.png",
 		"name": "微电影",
-		"dec": "第9届三七短片汇参赛作品《错误代码》",
-		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=view&number=9"
+		"dec": "顺联温德姆酒店",
+		"link": "http://www.elitevisual.cn/tmpl/detail/detail.html?type=view&number=3"
 	}]
 }
