@@ -1,18 +1,15 @@
-{
-	"headline": "QIAN BAO金融理财APP",
-	"custom": "QIANBAO金融理财",
-	"industry": "金融/互联网",
-	"serveice": "而立为“QIANBAO”提供了移动端UI设计与开发等服务！",
+﻿{
+	"headline": "温德姆酒店2015婚博会微电影",
+	"custom": "顺联温德姆酒店",
+	"industry": "酒店/服务",
+	"serveice": "而立为“温德姆酒店”提供了微电影剧本创作、拍摄与后期制作等服务",
 	"text": [{
 		"head": "项目背景",
-		"content": ["QIANBAO基于提升用户体验、优化平台的界面设计、等几方面的需求，决定将现有移动端进行全新的升级。"]
-	}, {
-		"head": "面临挑战",
-		"content": ["在这项目中主要有几大挑战：", "1.xxxx", "2.xxxx", "3.xxxx"]
+		"content": ["资料正在整理中"]
 	}, {
 		"head": "解决方案",
-		"content": ["哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"]
+		"content": ["资料正在整理中"]
 	}],
-	"images": ["img/work/design/1/1.png", "img/work/design/1/2.png"],
-	"videos": []
+	"images": [],
+	"videos": ["http://yuntv.letv.com/bcloud.swf?uu=sqi6z4wlpa&vu=73acfe96e2&pu=dac422ae79&auto_play=0&gpcflag=1"]
 }

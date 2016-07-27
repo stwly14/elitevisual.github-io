@@ -1,18 +1,16 @@
 ﻿{
-	"headline": "QIAN BAO金融理财APP",
-	"custom": "QIANBAO金融理财",
-	"industry": "金融/互联网",
-	"serveice": "而立为“QIANBAO”提供了移动端UI设计与开发等服务！",
+	"headline": "第9届三七短片汇参赛作品《错误代码》",
+	"custom": "第9届三七短片汇",
+	"industry": "剧情片",
+	"serveice": "而立对《错误代码》进行剧本创作、拍摄、后期剪辑",
 	"text": [{
 		"head": "项目背景",
-		"content": ["QIANBAO基于提升用户体验、优化平台的界面设计、等几方面的需求，决定将现有移动端进行全新的升级。"]
+		"content": ["三七短片汇是拍电影网（filmaker.cn）独创的电影短片创作竞赛。三七短片汇的玩法非常简单：“给你7天时间，拍摄制作并发布一部3分钟的短片作品”。三七短片汇于2007年创办，至今已举办了九届。目前三七短片汇已在中国民间影视创作群落中成为一个相当重要的年度赛事。三七短片汇也被简称为“三七”。"]
 	}, {
-		"head": "面临挑战",
-		"content": ["在这项目中主要有几大挑战：", "1.xxxx", "2.xxxx", "3.xxxx"]
-	}, {
-		"head": "解决方案",
-		"content": ["哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"]
+		"head": "项目简介",
+		"content": ["如果记忆可以上传到云端，统一集中管理，知识的调取和分享不费吹灰之力，那等待着我们的是美丽新世界吗?"]
 	}],
-	"images": [],
-	"videos": ["http://static.hdslb.com/miniloader.swf?aid=5163599&page=1"]
+	"images": ["img/work/view/3/1.jpg"],
+	"imagesTxt": [],
+	"videos": ["http://player.letvcdn.com/lc03_p/201607/12/13/47/1346/newplayer/bcloud.swf?uu=3ba971f8f7&vu=72e2280454&vid=32886524"]
 }
